@@ -1,6 +1,6 @@
 ## LM3886 ZD-50
 
-![lm3886-zd-50](./images/0019.jpg)
+![lm3886-zd-50](./images/lm3886-zd-50.jpg)
 
 ### Description
 One of the best hi-fi lm3886 amplifier.
@@ -15,7 +15,7 @@ One of the best hi-fi lm3886 amplifier.
 - [http://forum.vegalab.ru/showthread.php?t=20617](http://forum.vegalab.ru/showthread.php?t=20617)
 
 ### Buy parts for assembling
-- [Order PCB from PCBWay]()
+- [Order PCB from PCBWay](https://www.pcbway.com/project/shareproject/lm3886_zd_50.html)
 
 ### Folder structure
 Most folder names are self explanatory.
