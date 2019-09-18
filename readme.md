@@ -17,6 +17,9 @@ One of the best hi-fi lm3886 amplifier.
 ### Buy parts for assembling
 - [Order PCB from PCBWay](https://www.pcbway.com/project/shareproject/lm3886_zd_50.html)
 
+### Related projects
+- [Power supply for LM3886 ZD-50](https://github.com/diyaudioby/ps-zd-50)
+
 ### Folder structure
 Most folder names are self explanatory.
 - 3d - contains 3d models of PCB
