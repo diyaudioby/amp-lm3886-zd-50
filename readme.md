@@ -19,6 +19,7 @@ One of the best hi-fi lm3886 amplifier.
 
 ### Related projects
 - [Power supply for LM3886 ZD-50](https://github.com/diyaudioby/ps-zd-50)
+- [Softstart for LM3886 ZD-50](https://github.com/diyaudioby/ss-zd-50)
 
 ### Folder structure
 Most folder names are self explanatory.
